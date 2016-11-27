@@ -1,0 +1,2 @@
++linear Regression -> fitting an equation to our data using h(x)=theta_0+theta_1*x1
+  +gradient Descent
